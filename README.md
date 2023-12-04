@@ -1,2 +1,2 @@
 # Responsive design
-## Inkluderer media query element og støtter små skjermer. (:
+## Inkluderer media query element og støtter veldig små skjermer. (:
